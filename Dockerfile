@@ -13,3 +13,4 @@ RUN go get gopkg.in/mgo.v2/bson
 RUN go get qiniupkg.com/api.v7/kodo
 RUN go get github.com/gin-gonic/contrib/gzip
 RUN go get gopkg.in/olivere/elastic.v3
+RUN go get github.com/robfig/cron
