@@ -14,3 +14,4 @@ RUN go get -u github.com/qiniu/api.v7
 RUN go get github.com/gin-gonic/contrib/gzip
 RUN go get gopkg.in/olivere/elastic.v3
 RUN go get github.com/robfig/cron
+RUN go get github.com/aiwuTech/xinge
